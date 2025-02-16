@@ -12,7 +12,7 @@ import jakarta.servlet.http.HttpServletRequest;
 
 @CrossOrigin(origins = "http://172.31.26.105:9091/")
 @RestController
-@RequestMapping("/admins/bookings")
+@RequestMapping("/admins-api/attractionBookings")
 public class BookingController {
 
     @Autowired

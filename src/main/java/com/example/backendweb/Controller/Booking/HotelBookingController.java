@@ -12,7 +12,7 @@ import java.util.List;
 
 @CrossOrigin(origins = "http://172.31.26.105:9091/")
 @RestController
-@RequestMapping("/admins/hotelBookings")
+@RequestMapping("/admins-api/attractionBookings")
 public class HotelBookingController {
 
     @Autowired

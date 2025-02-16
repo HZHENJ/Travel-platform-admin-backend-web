@@ -17,7 +17,7 @@ import java.util.Map;
 
 @CrossOrigin(origins = "http://172.31.26.105:9091/")
 @RestController
-@RequestMapping("/admins/dashboard")
+@RequestMapping("/admins-api/attractionBookings")
 public class DashboardController {
 
     @Autowired
