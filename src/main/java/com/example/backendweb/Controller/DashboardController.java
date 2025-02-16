@@ -15,9 +15,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin(origins = "http://localhost:5173/")
+@CrossOrigin(origins = "http://172.31.26.105:9091/")
 @RestController
-@RequestMapping("/api/dashboard")
+@RequestMapping("/admins/dashboard")
 public class DashboardController {
 
     @Autowired

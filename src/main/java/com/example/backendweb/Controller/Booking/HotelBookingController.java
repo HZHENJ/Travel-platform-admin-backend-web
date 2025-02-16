@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.*;
 import jakarta.servlet.http.HttpServletRequest;
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:5173/")
+@CrossOrigin(origins = "http://172.31.26.105:9091/")
 @RestController
-@RequestMapping("/api/hotelBookings")
+@RequestMapping("/admins/hotelBookings")
 public class HotelBookingController {
 
     @Autowired
