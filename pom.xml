@@ -13,7 +13,7 @@
     <!-- 优质的 spring/boot/data/security/cloud 框架中文文档尽在 => https://springdoc.cn -->
     <groupId>com.example</groupId>
     <artifactId>backend-web</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>backend-web</name>
     <description>backend-web</description>
     <url/>
